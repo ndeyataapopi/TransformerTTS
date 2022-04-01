@@ -1,6 +1,6 @@
 _vowels = 'aeiou'
-_non_pulmonic_consonants = ''
-_pulmonic_consonants = 'pbtdckgqGNnmrv'
+_non_pulmonic_consonants = 'aehimnoxy'
+_pulmonic_consonants = 'bcdfgjklpqrstuvwz'
 _suprasegmentals = ''
 _other_symbols = ''
 _diacrilics = ''
